@@ -45,6 +45,7 @@
     - Contenedor proporcionado en clase
 
 ### Supuestos 
+- No pude probarlo con el entorno pero realice todo la logica
 
 
 
@@ -55,7 +56,7 @@
   
         
 
-
+![captura1.png](captura1.png)
 
 
 
